@@ -1,0 +1,6 @@
+# Day 1: Footprinting hacking
+1. Nội dung thực hành:
+- Tìm kiếm thông tin tổ chức Parking Direct (PD): địa chỉ email, tên doanh nghiệp, ...
+- Tìm kiếm thông tin domain: tên miền, tên miền phụ, ...
+- Tìm kiếm thông tin liên quan đến tổ chức.
+2. ET: Dự kiến thực hành trong 3 days
